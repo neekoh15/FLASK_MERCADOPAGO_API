@@ -123,6 +123,4 @@ if __name__ == '__main__':
 
     app.run(host=HOST, port=PORT, debug=True)
 
-    #print(mercadopago_sdk.merchant_order().get(merchan_order_id="22393920600"))
-
 
